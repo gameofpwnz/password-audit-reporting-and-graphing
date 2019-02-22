@@ -3,6 +3,7 @@
 
 This is a Python3 tool used as part of a password audit. It is used for reporting and graphing.
 
+This takes an input file (regular text file with passwords per line) and creates statistics and graphs.
 
 ```
 usage: pw_audit_graphing.py [-h] [-c COMPANY_NAME] [-i INPUT_FILE]
